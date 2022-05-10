@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-Thank you Florida Housing Coalition for inviting Code for South to provide assistance in the website redesign. This project is estimated to take X and cost Y. You'll find a complete breakdown of the work and costs below.
+Thank you Florida Housing Coalition for inviting Code for South to provide assistance in the website redesign. This project is estimated to take roughly 2 months and cost $13,000. You'll find a complete breakdown of the work and costs below.
 
 ## Implementation
 
@@ -40,7 +40,7 @@ Thank you Florida Housing Coalition for inviting Code for South to provide assis
 
     o. Design Main Pages
 
-2. Implementation (17 tasks * 8 hours = 136)
+2. Implementation (17 tasks * 8 hours = 136 hours)
 
     a. Develop color scheme
 
@@ -76,7 +76,7 @@ Thank you Florida Housing Coalition for inviting Code for South to provide assis
 
     q. Agree on rollback steps
 
-3. Release (7 tasks * 8 hours = 56 hours )
+3. Release (7 tasks * 8 hours = 56 hours)
 
     a. Release website per rollout plan
 
@@ -92,11 +92,11 @@ Thank you Florida Housing Coalition for inviting Code for South to provide assis
 
     g. Provide ongoing support
 
-# Costs
+## Costs
 
+The total cost is 312 hours * $40/hour = $12,480 rounded up to $13,000.
 
-
-# References
+## References
 
 1. [Flood Tracker](https://codeforsouth.org/projects/iot-flood-tracker/) - In 2018, we worked on building IoT Flood Trackers that were placed indoors and in the City of Coral Gable. The problem we identified was Miami / South Florida’s rising tides that were unexpected. Through a partnership effort, we worked on getting a community of people who setup, designed, and built their own IoT Flood Trackers using Particle.io.
 
